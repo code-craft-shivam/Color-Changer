@@ -1,5 +1,3 @@
-"# Color-Changer-JS-Project" 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
